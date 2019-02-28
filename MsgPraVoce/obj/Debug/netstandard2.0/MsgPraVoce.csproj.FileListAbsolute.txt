@@ -1,0 +1,12 @@
+/Users/aluno/Projects/MsgPraVoce/MsgPraVoce/bin/Debug/netstandard2.0/MsgPraVoce.deps.json
+/Users/aluno/Projects/MsgPraVoce/MsgPraVoce/bin/Debug/netstandard2.0/MsgPraVoce.dll
+/Users/aluno/Projects/MsgPraVoce/MsgPraVoce/bin/Debug/netstandard2.0/MsgPraVoce.pdb
+/Users/aluno/Projects/MsgPraVoce/MsgPraVoce/obj/Debug/netstandard2.0/MsgPraVoce.csprojAssemblyReference.cache
+/Users/aluno/Projects/MsgPraVoce/MsgPraVoce/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/aluno/Projects/MsgPraVoce/MsgPraVoce/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/aluno/Projects/MsgPraVoce/MsgPraVoce/obj/Debug/netstandard2.0/MsgPraVoce.csproj.CoreCompileInputs.cache
+/Users/aluno/Projects/MsgPraVoce/MsgPraVoce/obj/Debug/netstandard2.0/MsgPraVoce.AssemblyInfoInputs.cache
+/Users/aluno/Projects/MsgPraVoce/MsgPraVoce/obj/Debug/netstandard2.0/MsgPraVoce.AssemblyInfo.cs
+/Users/aluno/Projects/MsgPraVoce/MsgPraVoce/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/aluno/Projects/MsgPraVoce/MsgPraVoce/obj/Debug/netstandard2.0/MsgPraVoce.dll
+/Users/aluno/Projects/MsgPraVoce/MsgPraVoce/obj/Debug/netstandard2.0/MsgPraVoce.pdb
